@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
+
+
+header > h1{
+    margin: 0 45vh ;
+    color: aliceblue;
+    font-size:80px;
+    margin-top: 5%;
+}
+
+.img > img {
+    margin: -10% 68%;
+    border-radius: 10%;
+    box-shadow: 100%;
+
+}
+.text {
+    width: 20%;
+    margin: 10% 74%;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+form{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 40vh ;
+    font-size:80px;
+    margin-top: 5%;
+
+}
+
+form > .nome{
+    padding: 5%;
+    border: 100%;
+    border-radius: 10px;
+}
+
+form > .email {
+    padding: 5%;
+    border: 100%;
+    border-radius: 10px;
+}
+
+form > .btn {
+    padding: 5%;
+    border: 100%;
+    border-radius: 10px;
+}
